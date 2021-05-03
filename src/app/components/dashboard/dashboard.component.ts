@@ -1,5 +1,6 @@
+/// <reference types="@types/googlemaps" />
 import { Component, ElementRef, OnInit, ViewChild } from '@angular/core';
-import { } from 'google.maps';
+// import { } from 'google.maps';
 
 @Component({
   selector: 'app-dashboard',
